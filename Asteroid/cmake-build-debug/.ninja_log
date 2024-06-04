@@ -1,0 +1,8 @@
+# ninja log v5
+4	843	7254748606794530	CMakeFiles/SDLTEST.dir/main.cpp.obj	331ea70cdde874f
+1	1163	7254713030087390	CMakeFiles/SDLTEST.dir/View/framework.cpp.obj	8c2dbd42fe919022
+2	497	7392118206419118	build.ninja	5d1b1b17addb0d02
+844	958	7254748607914535	SDLTEST.exe	8a4dc810ddd869be
+8	225	7254729205617325	CMakeFiles/SDLTEST.dir/Model/Missile.cpp.obj	35e5b0cec8c29f3b
+14	230	7254729205667339	CMakeFiles/SDLTEST.dir/Model/FlyingObject.cpp.obj	d20321b320bc31fd
+7	444	7254732498350465	CMakeFiles/SDLTEST.dir/Model/Asteroid.cpp.obj	e61902d01e44257
